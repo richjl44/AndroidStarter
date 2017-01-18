@@ -1,0 +1,4 @@
+
+$ git remote add origin https://github.com/richjl44/AndroidStarter.git
+$ git pull origin master
+$ git push -f origin master
