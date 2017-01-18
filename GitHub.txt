@@ -2,7 +2,7 @@
 cd 'C:\Users\layrj\Documents\Visual Studio 2013\Projects\XAM110-ex1-start'
 
 git add .
-git commit -m "Notes""
+git commit -m "Notes"
 
 
  git remote add origin https://github.com/richjl44/AndroidStarter.git
